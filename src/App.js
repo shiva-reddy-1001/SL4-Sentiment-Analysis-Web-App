@@ -12,7 +12,7 @@ function App() {
     //console.log(process.env.REACT_APP_AZURE_KEY);
     var config = { 
       headers: {
-      "Ocp-Apim-Subscription-Key": process.env.REACT_APP_AZURE_KEY
+      "Ocp-Apim-Subscription-Key": "3b74d3ea745a4d0cbd89ccb1886fc8b0"
       }
    };
    var body = {
