@@ -6,7 +6,7 @@ module.exports = async function (context, req) {
     var url  = "https://sl4-nlp-api.cognitiveservices.azure.com/text/analytics/v3.2-preview.1/sentiment?opinionMining=true"
     var config = {
         headers: {
-            "Ocp-Apim-Subscription-Key": "3b74d3ea745a4d0cbd89ccb1886fc8b0"
+            "Ocp-Apim-Subscription-Key": "f128e118a9ff4cb0a62e39a095c1cbfd"
         }
     };
 
